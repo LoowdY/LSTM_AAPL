@@ -2,8 +2,7 @@
 
 ---
 
-**Responsável Técnico:** João Renan S. Lopes  
-**Supervisão Acadêmica:** Profa. Polyana Fonseca
+**Autor:** João Renan S. Lopes  
 
 ---
 
